@@ -6,7 +6,7 @@
 ## 👤 About Me
 Born: October 9, 1999
 
-Shahadat Jaman is a visionary tech entrepreneur and the founder of [SukhiTech Solutions](https://example.com). Established in 2024, SukhiTech Solutions leverages cutting-edge technology to solve real-world problems and drive innovation.
+Shahadat Jaman is a visionary tech entrepreneur and the founder of [SukhiTech Solutions](https://sukhitech.com). Established in 2024, SukhiTech Solutions leverages cutting-edge technology to solve real-world problems and drive innovation.
 
 ## 🚀 Journey in Technology
 My passion for technology began in 2019 with self-education in programming and problem-solving. Despite financial challenges, my resilience and innovative mindset turned obstacles into opportunities, paving the way for my success.
