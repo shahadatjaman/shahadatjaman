@@ -33,11 +33,11 @@ Through SukhiTech Solutions, I aspire to inspire and empower individuals to embr
 
 ---
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?shahadatjaman=shahadatjaman&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?shahadatjaman=shahadatjaman&layout=compact&theme=radical)
 
 ## 📫 Connect with Me
-- [LinkedIn](https://www.linkedin.com/in/yourprofile)
+- [LinkedIn](https://www.linkedin.com/in/shahadat-jaman-76063a26a/)
 - [Twitter](https://twitter.com/yourprofile)
 - [Email](mailto:youremail@example.com)
 
