@@ -1,7 +1,7 @@
 # 𝗦𝗵𝗮𝗵𝗮𝗱𝗮𝘁 𝗝𝗮𝗺𝗮𝗻
 **Founder & CEO, SukhiTech Solutions**
 
-![Profile Banner](https://example.com/banner.png) <!-- You can add a banner image here -->
+![Profile Banner](https://res.cloudinary.com/dza2t1htw/image/upload/v1722183219/SMS/cbme5mwfssfhnfzd7mf0.png) <!-- You can add a banner image here -->
 
 ## 👤 About Me
 Born: October 9, 1999
