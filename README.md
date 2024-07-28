@@ -35,7 +35,7 @@ Through SukhiTech Solutions, I aspire to inspire and empower individuals to embr
 
 
 ## 📫 Connect with Me
-- [LinkedIn](https://www.linkedin.com/in/yourprofile)
+- [LinkedIn](https://www.linkedin.com/in/shahadat-jaman-76063a26a/)
 - [Twitter](https://twitter.com/yourprofile)
 - [Email](mailto:youremail@example.com)
 
