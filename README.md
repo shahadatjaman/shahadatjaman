@@ -8,7 +8,7 @@
 
 ---
 
-## ⚙️ Tech Stack (Updated)
+## ⚙️ Tech Stack
 
 **Languages**  
 `JavaScript` · `TypeScript` · `HTML` · `CSS`
